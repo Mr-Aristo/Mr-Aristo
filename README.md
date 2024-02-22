@@ -1,7 +1,7 @@
 # Hi 👋 I'm Emre and I'm a backend developer.
 
 - 🔭 I’m currently working on C# .Net Core API's with Angular and Database optimization 
-- 🌱 I’m currently learning pythom and UI design
+- 🌱 I’m currently learning python and UI design
   
 <!--
 **Mr-Aristo/Mr-Aristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
