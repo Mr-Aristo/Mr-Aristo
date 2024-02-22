@@ -45,7 +45,7 @@ I am always eager to learn and stay updated with the latest technologies. Curren
 ## 📫 Let's Connect
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-- [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat-square&logo=telegram)](https://t.me/@mr_Aristo)
+- [![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat-square&logo=telegram)](https://t.me/mr_Aristo)
 - [![Email](https://img.shields.io/badge/Email-Send%20a%20Message-red?style=flat-square&logo=email)](mailto:geceremre@outlook.com)
 
 
