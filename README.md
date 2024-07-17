@@ -14,10 +14,13 @@ Hello, I'm Emre, a passionate backend developer with a knack for turning ideas i
 - **Web Technologies:** Node.js, Ts
 - **Database:** SQL (MSSQL, PostgreSQL), NoSQL (MongoDB)
 - **Frameworks:** Angular, .Net Core, EF Core, 
-- **Version Control:** Git
+- **Version Control:** ![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
+- **Web Technologies:** Node.js, Express.js, ![Angular](https://img.shields.io/badge/Angular-Intermediate-red?style=flat-square&logo=angular)
+- **TypeScript:** ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-blue?style=flat-square&logo=typescript)
+- **API Testing:** ![Postman](https://img.shields.io/badge/Postman-Advanced-orange?style=flat-square&logo=postman)
 <!--
 - **Programming Languages:** Java, Python, ![C#](https://img.shields.io/badge/C%23-Intermediate-blue?style=flat-square&logo=c-sharp)
-- **Web Technologies:** Node.js, Express.js, ![Angular](https://img.shields.io/badge/Angular-Intermediate-red?style=flat-square&logo=angular)
+
 - **Database:** ![SQL](https://img.shields.io/badge/SQL-Advanced-yellow?style=flat-square&logo=sql)
 - **Frameworks:** Spring Boot, Flask
 - **Version Control:** ![Git](https://img.shields.io/badge/Git-Advanced-orange?style=flat-square&logo=git)
@@ -52,7 +55,7 @@ I am always eager to learn and stay updated with the latest technologies. Curren
 Feel free to reach out if you want to discuss development, share ideas, or just chat about the latest tech trends. Let's build something amazing together!
 
 Happy coding! 👨‍💻
-<!-- 
+
 ### Languages and Tools
 - ![C#](https://img.shields.io/badge/C%23-Intermediate-blue?style=flat-square&logo=c-sharp)
 - ![SQL](https://img.shields.io/badge/SQL-Advanced-yellow?style=flat-square&logo=sql)
@@ -64,4 +67,4 @@ Happy coding! 👨‍💻
 - ![Postman](https://img.shields.io/badge/Postman-Advanced-orange?style=flat-square&logo=postman)
 - ![DevOps](https://img.shields.io/badge/DevOps-Intermediate-blue?style=flat-square&logo=dev.to)
 - ![CI/CD](https://img.shields.io/badge/CI%2FCD-Intermediate-green?style=flat-square)
--->
+
