@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Safa Yüce</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Emre Gecer</h1>
 <h3 align="center">🌟Full Stack .Net Web Developer🌟</h3>
 
 <br>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Software Web Development and other programming languages
 
-- 📫 How to reach me **safayuce34@gmail.com**
+- 📫 How to reach me **geceremre@outlook.com**
   
 - 🚀 My Personel Website : Coming soon 👩🏻‍💻.
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/safa-y%C3%BCce-09101522a/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/geceremre07/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="safa" height="30" width="40" /></a>
 </p>
@@ -32,7 +32,7 @@
 <p align="left" witdh="320" height="320">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=typescript&amp;logoColor=%23F7DF1E" alt="TypeScript"> 
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> 
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"> 
