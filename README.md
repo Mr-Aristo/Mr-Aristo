@@ -7,13 +7,13 @@
 
 <br>
 
-- 🌱 I’m currently learning Software Web Development and other programming languages
+- 🌱 I’m currently working and learning Software Web Development, RestAPI, Microservices and other programming languages.
 
 - 📫 How to reach me **geceremre@outlook.com**
   
 - 🚀 My Personel Website : Coming soon 👩🏻‍💻.
 
-- ⚡ Fun Fact : Code,Music🎵 and books are the reasons to live.
+
  
 <br>
 
