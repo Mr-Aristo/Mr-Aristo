@@ -25,15 +25,10 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="safa" height="30" width="40" />
   </a>
-  <a href="https://t.me/mr_Aristo" target="blank">
+ <a href="https://t.me/yourtelegramusername" target="blank">
     <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
-      alt="telegram" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/yourwhatsappnumber" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-      alt="whatsapp" height="30" width="40" />
+      src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
+      alt="Telegram" height="30" width="40" />
   </a>
 </p>
 
