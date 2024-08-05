@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Emre Gecer</h1>
-<h3 align="center">🌟Full Stack .Net Web Developer🌟</h3>
+<h3 align="center">🌟.Net Web Developer🌟</h3>
 
 <br>
 
@@ -57,12 +57,12 @@
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Mr-Aristo&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+ <img src="https://github-readme-stats.vercel.app/api?username=Mr-A&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
  <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Aristo&amp;theme=radical&amp;hide_border=false" alt="">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-A&amp;theme=radical&amp;hide_border=false" alt="">
    </td>
   <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mr-Aristo&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mr-Ar&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
   </td>
  </tr>
 </table>
