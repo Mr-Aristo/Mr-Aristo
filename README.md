@@ -47,7 +47,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yucesefa&&row=1&theme=radical" alt="Safa Yüce" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mr-Aristo&&row=1&theme=radical" alt="Emre Gecer" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -57,12 +57,12 @@
 <table border="0" align="center">
   <tr border="0">
     <td width="50%" align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=yucesefa&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
+ <img src="https://github-readme-stats.vercel.app/api?username=Mr-Aristo&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="">
  <hr>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yucesefa&amp;theme=radical&amp;hide_border=false" alt="">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Aristo&amp;theme=radical&amp;hide_border=false" alt="">
    </td>
   <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yucesefa&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Mr-Aristo&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=6"/>
   </td>
  </tr>
 </table>
