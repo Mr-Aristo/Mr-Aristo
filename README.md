@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m currently working and learning Software Web Development, RestAPI, Microservices and other programming languages.
+- 🌱 I’m Software developer experienced with Web Development, RestAPI, Microservices, MediatorR, gRPC, Redis, Docker.
 
 - 📫 How to reach me **geceremre@outlook.com**
   
