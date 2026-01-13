@@ -7,7 +7,7 @@
 
 <br>
 
-- 🌱 I’m Software developer experienced with Web Development, RestAPI, Microservices, MediatorR, gRPC, Redis, Docker, k8s.
+- 🌱 I’m Software developer experienced with Web Development, RestAPI, Microservices, MediatorR, gRPC, Redis, Docker.
 
 - 📫 How to reach me **geceremre@outlook.com**
   
